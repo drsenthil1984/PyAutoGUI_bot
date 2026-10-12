@@ -1,0 +1,8 @@
+workspace:
+  id: eb3ed0b6-e235-440b-8fdd-c73a0349ad99
+localResources:
+  specs:
+    - ../postman/specs/New Specification/New Specification.yaml
+resourceNameMappings:
+  specs:
+    - ../postman/specs/New Specification/New Specification.yaml: New Specification
